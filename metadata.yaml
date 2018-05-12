@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3963
     wikipedia: http://en.wikipedia.org/wiki/E._Alexander_Powell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17292#The-New-Frontiers-of-Freedom-from-the-Alps-to-the--gean
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-12-12'
 gutenberg_type: Text
