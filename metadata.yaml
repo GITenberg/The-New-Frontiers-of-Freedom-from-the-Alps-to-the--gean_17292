@@ -1,0 +1,34 @@
+_repo: The-New-Frontiers-of-Freedom-from-the-Alps-to-the--gean_17292
+_version: 0.1.0
+alternative_title: New Frontiers of Freedom from the Alps to the Aegean
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Powell, E. Alexander (Edward Alexander)
+    aliases:
+    - Powell, E. A. (Edward Alexander)
+    - Powell, Edward Alexander
+    birthdate: 1879
+    deathdate: 1957
+    gutenberg_agent_id: '3963'
+    url: http://www.gutenberg.org/2009/agents/3963
+    wikipedia: http://en.wikipedia.org/wiki/E._Alexander_Powell
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17292'
+  lccn: '20007665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Territorial questions'
+- !lcsh 'Balkan Peninsula -- Description and travel'
+title: The New Frontiers of Freedom from the Alps to the Ægean
+url: http://www.gutenberg.org/ebooks/17292
